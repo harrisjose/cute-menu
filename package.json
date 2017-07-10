@@ -1,0 +1,37 @@
+{
+  "name": "cute-menu",
+  "version": "0.0.1",
+  "description": "Make your cli tools totally rad by giving people a damn menu",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisjose/cute-menu.git"
+  },
+  "keywords": [
+    "cli",
+    "cli-app",
+    "yarn",
+    "utils",
+    "cli",
+    "cli-tool",
+    "cli-helper",
+    "cli-utils"
+  ],
+  "author": "harris jose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrisjose/cute-menu/issues"
+  },
+  "homepage": "https://github.com/harrisjose/cute-menu#readme",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "standard": "^10.0.2"
+  }
+}
