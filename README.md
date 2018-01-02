@@ -26,7 +26,3 @@ menu.show()
 + [chalk](https://github.com/chalk/chalk)
 + [keypress](https://www.npmjs.com/package/keypress)
 + [get-stdin](https://github.com/sindresorhus/get-stdin)
-
-
-<br><br>
-<a href="https://app.codesponsor.io/link/T5F1SFV1gZFb51jKqxPnDwsg/harrisjose/cute-menu" rel="nofollow"><img src="https://app.codesponsor.io/embed/T5F1SFV1gZFb51jKqxPnDwsg/harrisjose/cute-menu.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
